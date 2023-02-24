@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying on a Master Degree in Electrotechnical and Computers Engineering<br>👯  I’m looking for an opportunity to show my skills and contribute as a team!<br>🤝 I’m looking for help with Software development and best ways to code! <br>🌱 I’m currently learning FrontEnd development through the main technologies:  React.JS+HTML5+CSS3<br>💬 Ask me about FrontEnd development, something about HTML,CSS, Javascript and React.JS!<br>⚡ Fun fact: The majority of the people plug in their USB wrong. 86% of people try to plug in their USB devices upside down. 
+🔭 I’m currently studying on a Master Degree in Electrotechnical and Computers Engineering<br>👯  I’m looking for an opportunity to show my skills and contribute as a team!<br>🤝 I’m looking for help with Software development and best ways to code! <br>🌱 I’m currently learning FrontEnd development through the main technologies:  React.JS+HTML5+CSS3 and BackEnd through Node.JS !!<br>💬 Ask me about FrontEnd development, something about HTML,CSS, Javascript and React.JS!<br>⚡ Fun fact: The majority of the people plug in their USB wrong. 86% of people try to plug in their USB devices upside down. 
 
 
 ## 🌐 Socials:
