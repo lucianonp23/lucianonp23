@@ -38,10 +38,11 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lucianonp23&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lucianonp23&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianonp23&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
